@@ -1,0 +1,6 @@
+public class Hello{
+publuc static void main(String[] args){
+Syetem.out.printin("hell");
+}
+
+}
